@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
+    "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+    "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "projectUniqueName": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
         "projectName": "Feitep.MySql.Models",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "projectPath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
+        "outputPath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
+    "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectUniqueName": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "projectName": "Feitep.MySql.Repository",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectPath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+        "outputPath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
-                "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
+              "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+                "projectPath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
               }
             }
           }
@@ -89,6 +94,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -106,6 +116,10 @@
               "version": "[8.0.15, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[8.0.15, )"
             },
@@ -136,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

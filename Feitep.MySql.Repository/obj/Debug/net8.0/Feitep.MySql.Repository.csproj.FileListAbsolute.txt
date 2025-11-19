@@ -10,9 +10,9 @@ c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\fei
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.AssemblyInfo.cs
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.csproj.CoreCompileInputs.cache
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.sourcelink.json
-c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.csproj.CopyComplete
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.dll
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\refint\Feitep.MySql.Repository.dll
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.pdb
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.MySql.Repository.genruntimeconfig.cache
 c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\ref\Feitep.MySql.Repository.dll
+c:\Users\lucas\OneDrive\Desktop\ADS\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\sql\feitep_dotnet_mysql\Feitep.MySql.Repository\obj\Debug\net8.0\Feitep.M.0A42FF57.Up2Date

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9CVyGBiMW4LdrgD4e20VnqNOsrAzgOiBX8V9HVnNC6UaH87kZcJG8XBvnR6CTUp7KGrZ6wN+kPIiMl7d2pLaTw==",
+  "dgSpecHash": "c+QI/wnEglw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+  "projectFilePath": "c:\\Users\\lucas\\OneDrive\\Desktop\\ADS\\TÓPICOS AVANÇADOS EM PROGRAMAÇÃO\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
